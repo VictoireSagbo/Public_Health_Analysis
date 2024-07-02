@@ -18,7 +18,7 @@ To run the notebook and reproduce the analysis, you will need the following Pyth
 You can install these packages using `pip`:
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn statsmodels
-
+```
 ## Analysis Summary
 The notebook includes the following sections:
 1. **Introduction**: Overview of the project and objectives.
